@@ -29,7 +29,7 @@ The **Learning Management System (LMS)** is a full-stack MERN (MongoDB, Express,
 ## 🏗 Installation Guide
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/Shivu7889/LMS.git
+git clone 
 cd LMS
 ```
 
